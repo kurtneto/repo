@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Inline HTML</title></head>
+<style>
+h1{color:purple}
+h2{color:pink}
+h3{color:brown}
+</style>
+<body>
+<h1>Blah</h1>
+<h2>Ouch</h2>
+<h3>Nightmare</h3>
+</html> 
